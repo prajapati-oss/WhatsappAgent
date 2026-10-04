@@ -1,0 +1,25 @@
+.# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector stores
+app/vectorestore/
+
+# Uploaded files
+uploads/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
